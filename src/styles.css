@@ -31,8 +31,6 @@ i {
 
 nav {
     background: #470c02;
-    /* background: #F6F5F2; */
-    /* box-shadow: 0 5px 15px #e2bab2; */
     box-shadow: 0 5px 15px #6f633e;
 }
 
@@ -70,7 +68,7 @@ a {
     font-size: 1.2rem;
     letter-spacing: 0.1rem;
     display: block;
-    padding: 0;
+    padding: 0.5rem 1rem;
     margin: 0 0.5rem;
     transition: all 0.3s linear;
 }
