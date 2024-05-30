@@ -25,7 +25,6 @@ h1 {
 
 i {
     font-size: 3rem;
-    margin-bottom: 1rem;
     color: #e2bab2;
 }
 
@@ -45,7 +44,7 @@ nav {
 .nav-header {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .menu {
@@ -64,8 +63,8 @@ a {
 
 .menu a {
     color: #FFF;
-    font-weight: bolder;
-    font-size: 1.2rem;
+    font-size: 1rem;
+    font-weight: bold;
     letter-spacing: 0.1rem;
     display: block;
     padding: 0.5rem 1rem;
@@ -74,6 +73,7 @@ a {
 }
 
 .menu a:hover {
+    font-weight: bolder;
     background: #e2bab2;
     color: #470c02;
 }
