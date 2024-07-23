@@ -6,5 +6,4 @@ I am learning to design Top Navbar from different Video Courses, Books, and Webs
 
 > 1. <https://microservices-sportsshop.github.io/hcjjs-2-only-topnavbar/>
 
-![image](https://github.com/user-attachments/assets/8861c797-c87c-4600-b277-01e4dfd19367)
-
+![First Look](documentation/images/FirstLook.PNG)
